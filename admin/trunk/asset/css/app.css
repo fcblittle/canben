@@ -1,0 +1,10 @@
+.pager a {
+    display: inline-block;
+    padding: 5px 10px;
+    margin-right: 5px;
+    background: #fff;
+    border: 1px solid #ddd;
+}
+
+.select2-drop {z-index: 100000;}
+.datepicker {z-index: 100000;}

@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+html,body,.main{height:100%;}
+.area { width:100%; height:auto; }
+.float_l { float:left; }
+
+body{ background:url(../images/bg.png) repeat; }
+.imgBig { height:auto; text-align:center;}
+.ipt01,.ipt02 { width:215px; height:216px;  margin: 0 auto; border:none; cursor:pointer;}
+.ipt01 {background:url(../images/apk_icon01.png) no-repeat;}
+.ipt02 {background:url(../images/ios_icon02.png) no-repeat;}
